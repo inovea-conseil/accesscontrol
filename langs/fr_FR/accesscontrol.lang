@@ -1,0 +1,10 @@
+
+Module432433Name=Contrôle des accès par IP
+Module432433Desc=Contrôle de l'accès à votre Dolibarr par des IP autorisées
+ACCESSDENIED = L'accès à cette interface ne vous est pas autorisé.
+AccessControl=Contrôle des accès par IP
+AccessControlSetup = Paramétrage
+AccessControlSetupDesc = Renseigner dans le champ "IP autorisées" les adresses IP autorisées à se connecter à votre Dolibarr, en les séparant par des virgules.
+AUTHORIZED_ADMIN = Autoriser les administrateurs quelque soit leur IP
+AuthorizedIP = IP autorisées
+ModifWin = Sauvegarder

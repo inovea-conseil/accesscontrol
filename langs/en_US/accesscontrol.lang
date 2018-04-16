@@ -1,0 +1,10 @@
+
+Module432433Name=Access Control
+Module432433Desc=Control the access to your Dolibarr checking the IP
+ACCESSDENIED = Access denied
+AccessControl=Access Control
+AccessControlSetup = Settings
+AccessControlSetupDesc = Insert IP address in the dedicated field, separeted by a comma 
+AUTHORIZED_ADMIN = the admin accounts can always entered (without checking the IP address)
+AuthorizedIP = Authorized IP
+ModifWin = Saved
